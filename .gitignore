@@ -1,0 +1,6 @@
+﻿# 个人文件（含学号），不上传
+原课程报告.docx
+*.pyc
+__pycache__/
+.venv/
+.DS_Store
